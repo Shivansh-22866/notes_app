@@ -53,3 +53,4 @@ Some extra features that have been implemented:
   - [Generating and adding content in a PDF on flutter](https://www.youtube.com/watch?v=8j6GKtpRkow)
   - [Data persistence through shared_preferences package](https://www.youtube.com/watch?v=hiZcVbyukBo)
   - [Dropdown Button Form Field for better looking dropdown lists](https://www.youtube.com/watch?v=6_Azs3fq9O4)
+  - [Custom animations for page Transitions](https://www.youtube.com/watch?v=ioUroK7Dnhg)
