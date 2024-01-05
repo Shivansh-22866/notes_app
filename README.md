@@ -51,5 +51,5 @@ Some extra features that have been implemented:
   - [Splash Screens in flutter](https://www.youtube.com/watch?v=XXISgdYHdYw)
   - [Creating custom launcher icons for the flutter app](https://www.youtube.com/watch?v=QPVMaedX1W8)
   - [Generating and adding content in a PDF on flutter](https://www.youtube.com/watch?v=8j6GKtpRkow)
-
-  
+  - [Data persistence through shared_preferences package](https://www.youtube.com/watch?v=hiZcVbyukBo)
+  - [Dropdown Button Form Field for better looking dropdown lists](https://www.youtube.com/watch?v=6_Azs3fq9O4)
