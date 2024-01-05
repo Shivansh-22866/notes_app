@@ -308,6 +308,20 @@ class _EditPageState extends State<EditPage> {
                 const SizedBox(
                   height: 40,
                 ),
+                if (imagePaths.isNotEmpty)
+                const Text(
+                  'Images:',
+                  style: TextStyle(
+                    fontFamily: 'PTSans',
+                    fontSize: 16,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
+                  ),
+                ),
+                if (imagePaths.isNotEmpty)
+                const SizedBox(
+                  height: 20,
+                ),
                 Row(
                   children: [
                     for (int index = 0; index < imagePaths.length; index++)
@@ -341,6 +355,20 @@ class _EditPageState extends State<EditPage> {
                 ),
                 const SizedBox(
                   height: 40,
+                ),
+                if (videoPaths.isNotEmpty)
+                const Text(
+                  'Videos:',
+                  style: TextStyle(
+                    fontFamily: 'PTSans',
+                    fontSize: 16,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
+                  ),
+                ),
+                if (videoPaths.isNotEmpty)
+                const SizedBox(
+                  height: 20,
                 ),
                 Row(
                   children: [
