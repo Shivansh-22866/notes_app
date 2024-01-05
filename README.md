@@ -18,7 +18,6 @@ Some extra features that have been implemented:
   - Custom animation has been added while transitioning between the edit screen and home screen of the notes app.
   - Splash Screen at the launch of the app.
 
-***
 
 ## Dart packages used:
   -   cupertino_icons: ^1.0.2
