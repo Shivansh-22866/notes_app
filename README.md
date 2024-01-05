@@ -32,4 +32,17 @@ Some extra features that have been implemented:
   -   img: ^0.1.0
   -   animated_splash_screen: ^1.3.0
   -   chewie: ^1.7.4
+  -   flutter_launcher_icons: ^0.13.1
 
+## Font assets used:
+    - family: Archivo
+      fonts:
+        - asset: assets/fonts/Archivo/Archivo-Italic-VariableFont_wdth,wght.ttf
+        - asset: assets/fonts/Archivo/Archivo-VariableFont_wdth,wght.ttf
+          style: italic
+    - family: PTSans
+      fonts:
+        - asset: assets/fonts/PT_Sans_Narrow/PTSansNarrow-Regular.ttf
+        - asset: assets/fonts/PT_Sans_Narrow/PTSansNarrow-Bold.ttf
+          weight: 700
+  
