@@ -45,4 +45,11 @@ Some extra features that have been implemented:
         - asset: assets/fonts/PT_Sans_Narrow/PTSansNarrow-Regular.ttf
         - asset: assets/fonts/PT_Sans_Narrow/PTSansNarrow-Bold.ttf
           weight: 700
+
+### To get started, here are some of the resources that I used:
+  - [Basic UI for notes app](https://www.youtube.com/watch?v=4Na6MF_9tIE)
+  - [Splash Screens in flutter](https://www.youtube.com/watch?v=XXISgdYHdYw)
+  - [Creating custom launcher icons for the flutter app](https://www.youtube.com/watch?v=QPVMaedX1W8)
+  - [Generating and adding content in a PDF on flutter](https://www.youtube.com/watch?v=8j6GKtpRkow)
+
   
